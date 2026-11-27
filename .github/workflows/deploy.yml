@@ -33,7 +33,8 @@ jobs:
       - uses: actions/setup-node@v6
         with: { node-version: 24 }
       - run: npm ci
-      - run: npx quartz plugin install --from-config
+      - name: Install plugins from quartz.lock.json
+        run: npx quartz plugin install
       - run: npx quartz build
       - run: python scripts/check_built_links.py public --base-path math_manifold
       - uses: actions/upload-pages-artifact@v3
