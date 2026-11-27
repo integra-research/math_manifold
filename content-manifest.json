@@ -600,17 +600,17 @@
     {
       "id": "cap-01-volume-coefficients",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-01-volume-coefficients.md",
-      "sha256": "47e57632b815ade195351f85a286feedbd842230655582585f22294b3765d70b"
+      "sha256": "1561a460df725d8fb03075ba90a021e69cd9b3099ae38472225520e5b06e2ac1"
     },
     {
       "id": "cap-02-cross-schur",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-02-cross-schur.md",
-      "sha256": "75466392b112395a3368b815ad44af3da7e97c44a006f9ab5a51b68580d97aeb"
+      "sha256": "27808c97e05989b4fd404f22ef48d6de9544998ff59826fe8ccb57b758826cf5"
     },
     {
       "id": "cap-03-fekete-interpolation",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-03-fekete-interpolation.md",
-      "sha256": "43ffb3228ebff9d72aa48082b51b243c79710dc8021c7f428bb0ff4474928a99"
+      "sha256": "277abfd1afedcd69879fca402357c55208299b7e5227d5687931cb06a5741d1d"
     },
     {
       "id": "cap-05-rectangular-d-optimal",
@@ -735,7 +735,7 @@
     {
       "id": "cap-map",
       "path": "30_mathematics/computational-algebra-principles/cap-map.md",
-      "sha256": "772f051b49ba5b86a584cf8102b98e1ac3cca0fa2f35610421100fb6255ca5a4"
+      "sha256": "19765eed5d18556aeb8a00e8d36c1afe65a1ae1165319943d6b17e250e14c14c"
     },
     {
       "id": "cap-mobius-infinitesimal-theorem",
@@ -941,6 +941,11 @@
       "id": "cap-t03-cherry-picking",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t03-cherry-picking.md",
       "sha256": "bdb23c90268d0cf03c734f54257844aaba6a9440e24a8a44e93976f4ea6fecfb"
+    },
+    {
+      "id": "cap-transition-map",
+      "path": "30_mathematics/computational-algebra-principles/cap-transition-map.md",
+      "sha256": "5ff0e4b6d3f0db51a6971d18d29a4d222b24731c73045bc7f99d69e4a0ab0e5b"
     },
     {
       "id": "cap-visual-lab",
@@ -4410,7 +4415,7 @@
     {
       "id": "tva-06-maxvol-cross",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-06-maxvol-cross.md",
-      "sha256": "b5c84f3e57e264eab01e6b1bc7d170a4c931b8156dce937a3fa0d0d671b16cf8"
+      "sha256": "feed28dd09ffceb3930e04d07c11576dbd1ead08101717cd3e014af2429444bc"
     },
     {
       "id": "tva-07-tensor-rank-uniqueness",
